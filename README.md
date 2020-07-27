@@ -37,6 +37,10 @@ as they're less likely to be displayed alongside one another.
     <th>Meaning</th>
 </tr>
 <tr>
+    <td><img src="Images/associatedtype.svg" width="32" height="32"/></td>
+    <td>Associated Type</td>
+</tr>
+<tr>
     <td><img src="Images/class.svg" width="32" height="32"/></td>
     <td>Class</td>
 </tr>
