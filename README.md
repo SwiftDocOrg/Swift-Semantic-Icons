@@ -53,6 +53,10 @@ as they're less likely to be displayed alongside one another.
     <td>Enumeration Case</td>
 </tr>
 <tr>
+    <td><img src="Images/extension.svg" width="32" height="32"/></td>
+    <td>Extension</td>
+</tr>
+<tr>
     <td><img src="Images/function.svg" width="32" height="32"/></td>
     <td>Function</td>
 </tr>
