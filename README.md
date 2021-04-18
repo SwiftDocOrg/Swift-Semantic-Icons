@@ -2,7 +2,7 @@
 
 <table style="float: right;">
 <tr>
-<td rowspan="14" width="66%" valign="top">
+<td rowspan="15" width="66%" valign="top">
 
 <p>
 These icons are used by 
@@ -65,6 +65,10 @@ as they're less likely to be displayed alongside one another.
     <td>Method</td>
 </tr>
 <tr>
+    <td><img src="Images/operator.svg" width="32" height="32"/></td>
+    <td>Operator</td>
+</tr>
+<tr>
     <td><img src="Images/property.svg" width="32" height="32"/></td>
     <td>Property</td>
 </tr>
@@ -84,7 +88,6 @@ as they're less likely to be displayed alongside one another.
     <td><img src="Images/variable.svg" width="32" height="32"/></td>
     <td>Variable</td>
 </tr>
-<tr><td colspan="2"></td></tr>
 </table>
 
 ## License
